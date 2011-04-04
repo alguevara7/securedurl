@@ -1,0 +1,9 @@
+lib_managed
+src_managed
+target
+bin
+*.jar
+*.lock
+*.log
+.classpath
+.project
