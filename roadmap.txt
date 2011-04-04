@@ -1,0 +1,11 @@
+Roadmap
+=======
+
+stories
+-------
+- add secured URL (composed of a public and a private URL)  ... want to become a bit familiar with wicket first
+
+- secured url only accessible to facebook friends
+  the secured url already exists, just make sure the private part of 
+  it can only be accessed by my facebook friends 
+
